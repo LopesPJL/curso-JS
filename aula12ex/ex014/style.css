@@ -8,6 +8,10 @@ header{
     color: white;
 }
 
+div{
+    padding: 15px;
+}
+
 section{
     background-color: white;
     border-radius: 10px;
