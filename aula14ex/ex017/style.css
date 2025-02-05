@@ -1,11 +1,11 @@
 body{
     background-color: rgb(70, 142, 236);
     font: normal 15pt arial;
-    text-align: center;
 } 
 
 header{
     color: white;
+    text-align: center;
 }
 
 div{
@@ -24,4 +24,5 @@ section{
 footer{
     color: white;
     font-style: italic;
+    text-align: center;
 }
